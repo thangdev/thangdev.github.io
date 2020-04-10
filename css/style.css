@@ -16,6 +16,11 @@ ul {
     margin: 0px;
 }
 
+h4 {
+    color: #373c40;
+    font-weight: bold;
+}
+
 img {
     max-width: 100%;
 }
